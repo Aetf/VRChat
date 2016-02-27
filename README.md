@@ -11,7 +11,7 @@ VRChat source code for MHack. This is an attempt to realize a new fancy way to c
 - Player should stay in the detection area supported by Kinect.
 
 ## Basic Setup
-1: Kinect stream server (source code)[https://github.com/whuchenrui/hackathon_VRchat]
+1: Kinect stream server [source code](https://github.com/whuchenrui/hackathon_VRchat)
 2: Kinect v2
 3: Google Cardboard * 2
 4: Mobile phone * 2 (Either Android or iOS, should have rather modern hardware)
