@@ -1,0 +1,160 @@
+fileFormatVersion: 2
+guid: e7a9ed2530dbca2489feaf038ed7d5b2
+timeCreated: 1456037520
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Arm IK_L
+    100002: Arm IK_L_end
+    100004: Arm IK_R
+    100006: Arm IK_R_end
+    100008: Arm Lower_L
+    100010: Arm Lower_R
+    100012: Arm Upper_L
+    100014: Arm Upper_R
+    100016: Bone
+    100018: Elbow IK_L
+    100020: Elbow IK_L_end
+    100022: Elbow IK_R
+    100024: Elbow IK_R_end
+    100026: Foot Front_L
+    100028: Foot Front_L_end
+    100030: Foot Front_R
+    100032: Foot Front_R_end
+    100034: Hand_L
+    100036: Hand_L_end
+    100038: Hand_R
+    100040: Hand_R_end
+    100042: Head
+    100044: Head_end
+    100046: Knee IK_L
+    100048: Knee IK_L_end
+    100050: Knee IK_R
+    100052: Knee IK_R_end
+    100054: Leg IK_L
+    100056: Leg IK_L_end
+    100058: Leg IK_R
+    100060: Leg IK_R_end
+    100062: Leg Upper_L
+    100064: Leg Upper_R
+    100066: Leg_Lower_L
+    100068: Leg_Lower_R
+    100070: //RootNode
+    100072: Neck
+    100074: Pelvis
+    100076: Shoulder_L
+    100078: Shoulder_R
+    100080: Spine
+    100082: Stick-man
+    100084: Stickman
+    400000: Arm IK_L
+    400002: Arm IK_L_end
+    400004: Arm IK_R
+    400006: Arm IK_R_end
+    400008: Arm Lower_L
+    400010: Arm Lower_R
+    400012: Arm Upper_L
+    400014: Arm Upper_R
+    400016: Bone
+    400018: Elbow IK_L
+    400020: Elbow IK_L_end
+    400022: Elbow IK_R
+    400024: Elbow IK_R_end
+    400026: Foot Front_L
+    400028: Foot Front_L_end
+    400030: Foot Front_R
+    400032: Foot Front_R_end
+    400034: Hand_L
+    400036: Hand_L_end
+    400038: Hand_R
+    400040: Hand_R_end
+    400042: Head
+    400044: Head_end
+    400046: Knee IK_L
+    400048: Knee IK_L_end
+    400050: Knee IK_R
+    400052: Knee IK_R_end
+    400054: Leg IK_L
+    400056: Leg IK_L_end
+    400058: Leg IK_R
+    400060: Leg IK_R_end
+    400062: Leg Upper_L
+    400064: Leg Upper_R
+    400066: Leg_Lower_L
+    400068: Leg_Lower_R
+    400070: //RootNode
+    400072: Neck
+    400074: Pelvis
+    400076: Shoulder_L
+    400078: Shoulder_R
+    400080: Spine
+    400082: Stick-man
+    400084: Stickman
+    4300000: Stick-man
+    9500000: //RootNode
+    13700000: Stick-man
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
